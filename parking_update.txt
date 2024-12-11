@@ -1,0 +1,106 @@
+The initial state of parking lot
+SPOT#         STATUS           NAME
+
+    1.           1     Hamdullahpur_Feridun
+    2.           0                         
+    3.           0                         
+    4.           0                         
+    5.           0                         
+    6.           1                Owen_Bill
+    7.           0                         
+    8.           0                         
+    9.           1            Trelford_Ryan
+   10.           0             Lovelace_Ada
+   11.           1              Davison_Dan
+   12.           0                         
+   13.           0                         
+   14.           1            Brown_Natalie
+   15.           0                Bell_Alex
+   16.           1           Beltaos_Andrew
+   17.           1       Stachowsky_Michael
+   18.           1         Strickland_Donna
+   19.           0            Gryguc_Andrew
+   20.           1              Nairn_David
+   21.           1             Consell_Ryan
+   22.           0                         
+   23.           1           Gerlich_Adrian
+   24.           1                Lau_David
+   25.           1       Vandekerckhove_Sam
+   26.           0               Tesla_Nick
+   27.           0                         
+   28.           0                Otto_Nick
+   29.           0                Turing_Al
+   30.           1          Teertstra_Peter
+   31.           0             Archimedes_A
+   32.           0             da_Vinci_Leo
+   33.           0           Stephenson_Geo
+   34.           0                         
+   35.           0             Hopper_Grace
+   36.           0                 Oh_Henry
+   37.           1             Milne_Andrew
+   38.           0                         
+   39.           1             Baleshta_Jim
+   40.           0                         
+   41.           0               Edison_Tom
+   42.           1              Hulls_Carol
+   43.           1          Lambert_Stephan
+   44.           1               Dyck_Karen
+   45.           0             Babbage_Chip
+   46.           0                         
+   47.           1            Rennick_Chris
+   48.           1          Musselman_Kevin
+   49.           1          Nassar_Mohammed
+   50.           1           Lokker_Shirley
+The final state of parking lot
+SPOT#         STATUS           NAME
+
+    1.           1     Teertstra_Peter
+    2.           1        Milne_Andrew
+    3.           1         Hulls_Carol
+    4.           1       Rennick_Chris
+    5.           1     Musselman_Kevin
+    6.           1           Owen_Bill
+    7.           1     Nassar_Mohammed
+    8.           1      Lokker_Shirley
+    9.           1       Trelford_Ryan
+   10.           0        Lovelace_Ada
+   11.           1         Davison_Dan
+   12.           1     de_Souza_Maddie
+   13.           1        Grguc_Andrew
+   14.           1       Brown_Natalie
+   15.           0           Bell_Alex
+   16.           1      Beltaos_Andrew
+   17.           1  Stachowsky_Michael
+   18.           1    Strickland_Donna
+   19.           1          Goel_Vivek
+   20.           1         Nairn_David
+   21.           1        Consell_Ryan
+   22.           0                    
+   23.           1      Gerlich_Adrian
+   24.           0                    
+   25.           1  Vandekerckhove_Sam
+   26.           0        Payette_Jill
+   27.           0          Eiffel_Gus
+   28.           0        Wozniak_Stef
+   29.           0           Turing_Al
+   30.           0      Armstrong_Nick
+   31.           0        Archimedes_A
+   32.           0        da_Vinci_Leo
+   33.           0      Stephenson_Geo
+   34.           0          Imahara_Gr
+   35.           0        Hopper_Grace
+   36.           0            Oh_Henry
+   37.           0             Tepe_Go
+   38.           0          Clarke_Edi
+   39.           0         Roebling_Em
+   40.           0         Jemison_May
+   41.           0          Woods_Gran
+   42.           0        Jackson_Mary
+   43.           0         Johnson_Kat
+   44.           0         Vaughan_Dot
+   45.           0        Babbage_Chip
+   46.           0            Tlaa_Sha
+   47.           0            Dyck_Lil
+   48.           0          Curie_Mary
+   49.           0       Stroustrup_Bj
+   50.           0           Imhotep_P
